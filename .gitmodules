@@ -1,3 +1,6 @@
 [submodule "Classic_Algorithms"]
 	path = Classic_Algorithms
 	url = https://github.com/miketestgit02/Classic_Algorithms
+[submodule "Numbers"]
+	path = Numbers
+	url = https://github.com/miketestgit02/Numbers
