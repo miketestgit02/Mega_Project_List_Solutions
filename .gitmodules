@@ -7,3 +7,6 @@
 [submodule "Security"]
 	path = Security
 	url = https://github.com/miketestgit02/Security
+[submodule "Text"]
+	path = Text
+	url = https://github.com/miketestgit02/Text
